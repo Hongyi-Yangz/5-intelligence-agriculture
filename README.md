@@ -4,8 +4,8 @@
    问题定义：本次设计旨在监测大棚空气的二氧化碳浓度，方便管理者根据监测数据进行大棚通风通气，以提高作物产量。
 ## 二、概念设计
 ### 概念一：CO2浓度监视器
-[Pic1](file:///C:/Users/85101/AppData/Roaming/Tencent/QQ/Temp/X2HDI$(J)XCWDB$Q%7DPW~N3Q.png)
-![Intro1](file:///C:/Users/85101/AppData/Roaming/Tencent/QQ/Temp/X2HDI$(J)XCWDB$Q%7DPW~N3Q.png)
+[Pic1](https://github.com/SWJTU-i2e-2020/5-intelligence-agriculture/blob/main/images/3.png)
+[Intro1]https://github.com/SWJTU-i2e-2020/5-intelligence-agriculture/blob/main/images/4.png)
 ### 概念二：可实现远程监测的检测系统
 [Pic2](https://github.com/SWJTU-i2e-2020/5-intelligence-agriculture/blob/main/images/5.png)
 [Intro2](https://github.com/SWJTU-i2e-2020/5-intelligence-agriculture/blob/main/images/6.png)
