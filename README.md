@@ -2,6 +2,13 @@
 ## 一、问题定义
    需求分析：当塑料大棚内二氧化碳浓度过低或过高时，会影响塑料大棚作物产量。在塑料大棚中安装二氧化碳监测仪可以保证在二氧化碳监测仪浓度过高或过低的情况下及时报警，从而使用气肥或通风通气。保证蔬菜、食用菌、鲜花、中药等提早上市、高质高产。   
    问题定义：本次设计旨在监测大棚空气的二氧化碳浓度，方便管理者根据监测数据进行大棚通风通气，以提高作物产量。
+## 二、概念设计
+### 概念一：CO2浓度监视器
+#### 概念草图：https://github.com/Hongyi-Yangz/5-intelligence-agriculture/blob/main/1.jpg
+#### 介绍：https://github.com/Hongyi-Yangz/5-intelligence-agriculture/blob/main/2.jpg
+### 概念二：可实现远程监测的检测系统
+#### 概念草图：https://github.com/Hongyi-Yangz/5-intelligence-agriculture/blob/main/3.jpg
+#### 介绍：https://github.com/Hongyi-Yangz/5-intelligence-agriculture/blob/main/4.jpg
 ## 二、国内外产品现状
    伴随云计算日益普及，以及人工智能技术日益成熟，推动信息科技向物联网时代转变，使得万物具有感知能力。这对于商业应用的发展起到了巨大的作用，而物联网应用技术为许多行业提供了新方向，其中最为热门的应用方式之一是农业应用领域。
    智慧农业组合方案，旨在对农业作业区域进行监测，赋予灌溉、水肥和温室等部分以智能化控制，提高农业种植质量。
