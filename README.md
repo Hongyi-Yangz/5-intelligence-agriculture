@@ -5,7 +5,7 @@
 ## 二、概念设计
 ### 概念一：CO2浓度监视器
 [Pic1](https://image.so.com/view?q=github&src=tab_www&correct=github&ancestor=list&cmsid=428efe1fe3f6e449dbed22b6221ffdc8&cmras=6&cn=0&gn=0&kn=11&crn=0&bxn=0&fsn=71&cuben=0&pornn=0&manun=0&adstar=0&clw=284#id=c1aeaa574be84191ae9d44cc9116f6ca&currsn=0&ps=60&pc=60)
-![Intro1](https://github.com/SWJTU-i2e-2020/5-intelligence-agriculture/blob/main/images/4.png)
+![Intro1](file:///C:/Users/85101/AppData/Roaming/Tencent/QQ/Temp/X2HDI$(J)XCWDB$Q%7DPW~N3Q.png)
 ### 概念二：可实现远程监测的检测系统
 [Pic2](https://github.com/SWJTU-i2e-2020/5-intelligence-agriculture/blob/main/images/5.png)
 [Intro2](https://github.com/SWJTU-i2e-2020/5-intelligence-agriculture/blob/main/images/6.png)
