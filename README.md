@@ -9,7 +9,7 @@
 ### 概念二：可实现远程监测的检测系统
 #### 概念草图：https://github.com/Hongyi-Yangz/5-intelligence-agriculture/blob/main/3.jpg
 #### 介绍：https://github.com/Hongyi-Yangz/5-intelligence-agriculture/blob/main/4.jpg
-## 二、国内外产品现状
+## 三、国内外产品现状
    伴随云计算日益普及，以及人工智能技术日益成熟，推动信息科技向物联网时代转变，使得万物具有感知能力。这对于商业应用的发展起到了巨大的作用，而物联网应用技术为许多行业提供了新方向，其中最为热门的应用方式之一是农业应用领域。
    智慧农业组合方案，旨在对农业作业区域进行监测，赋予灌溉、水肥和温室等部分以智能化控制，提高农业种植质量。
 ### （一）、国内市场调研：
@@ -52,7 +52,7 @@ https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/16653/Sm
 http://www.fao.org/climate-smart-agriculture/overview/en/；
 
 https://www.semtech.com/lora/lora-applications/smart-agriculture；
-## 三、团队介绍
+## 四、团队介绍
 我们是一个6位来自通信工程专业的学生组成的团队，每位同学都善良活泼，聪敏好学，优秀的完成了课程设计1的任务。我们本相识不多，但碰撞在一起一定能擦出美丽的火花。下面介绍一下我们的团队：
 我们团队具有多元化的特点。6位同学分别来自不同的班级，男女比例协调。6位同学来自五湖四海不同的地区，有文化差异与性格差异的碰触。
 
@@ -69,7 +69,7 @@ https://www.semtech.com/lora/lora-applications/smart-agriculture；
 李芋霖：队员，成熟稳重，为人幽默，做事认真。善于使用自媒体。
 
 朱  语：队员，聪明幽默，善于发现问题、思考问题、解决问题。
-## 四、团队建设
+## 五、团队建设
 1、队长;颜海月
 善于规划和发配任务，发挥内部成员的优势，能够保证团队每位成员的承担公平的工作量并及时完成任务；有较强的责任心和领导力，可以有责任在专业、有条理、及时地指导团队。
 2、工程设计流程
